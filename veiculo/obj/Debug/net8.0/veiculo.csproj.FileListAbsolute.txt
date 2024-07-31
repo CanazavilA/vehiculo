@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/veiculo/bin/Debug/net8.0/veiculo
+/home/et12alumno/Escritorio/veiculo/bin/Debug/net8.0/veiculo.deps.json
+/home/et12alumno/Escritorio/veiculo/bin/Debug/net8.0/veiculo.runtimeconfig.json
+/home/et12alumno/Escritorio/veiculo/bin/Debug/net8.0/veiculo.dll
+/home/et12alumno/Escritorio/veiculo/bin/Debug/net8.0/veiculo.pdb
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/veiculo.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/veiculo.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/veiculo.AssemblyInfo.cs
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/veiculo.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/veiculo.dll
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/refint/veiculo.dll
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/veiculo.pdb
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/veiculo.genruntimeconfig.cache
+/home/et12alumno/Escritorio/veiculo/obj/Debug/net8.0/ref/veiculo.dll
